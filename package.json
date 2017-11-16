@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/multiyasa-abadi-sentosa/dl-module.git"
+    "url": "git+https://github.com/Multiyasa-Abadi-Sentosa/dl-module.git"
   },
   "author": "Moonlay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/multiyasa-abadi-sentosa/dl-module/issues"
+    "url": "https://github.com/Multiyasa-Abadi-Sentosa/dl-module/issues"
   },
-  "homepage": "https://github.com/multiyasa-abadi-sentosa/dl-module#readme",
+  "homepage": "https://github.com/Multiyasa-Abadi-Sentosa/dl-module#readme",
   "dependencies": {
     "assert": "^1.4.1",
-    "dl-i18n": "git+https://github.com/multiyasa-abadi-sentosa/dl-i18n.git",
-    "dl-models": "https://github.com/multiyasa-abadi-sentosa/dl-models#dev",
+    "dl-i18n": "git+https://github.com/Multiyasa-Abadi-Sentosa/dl-i18n.git",
+    "dl-models": "https://github.com/Multiyasa-Abadi-Sentosa/dl-models#dev",
     "hashids": "^1.1.0",
     "module-toolkit": "git+https://github.com/pinkgorilla/module-toolkit.git",
     "moment": "2.17.1",
